@@ -1,0 +1,12 @@
+C:\Users\destr\source\repos\BlackJack\BlackJack\bin\Release\netcoreapp3.1\win-x64\BlackJack.exe
+C:\Users\destr\source\repos\BlackJack\BlackJack\bin\Release\netcoreapp3.1\win-x64\BlackJack.deps.json
+C:\Users\destr\source\repos\BlackJack\BlackJack\bin\Release\netcoreapp3.1\win-x64\BlackJack.runtimeconfig.json
+C:\Users\destr\source\repos\BlackJack\BlackJack\bin\Release\netcoreapp3.1\win-x64\BlackJack.runtimeconfig.dev.json
+C:\Users\destr\source\repos\BlackJack\BlackJack\bin\Release\netcoreapp3.1\win-x64\BlackJack.dll
+C:\Users\destr\source\repos\BlackJack\BlackJack\bin\Release\netcoreapp3.1\win-x64\BlackJack.pdb
+C:\Users\destr\source\repos\BlackJack\BlackJack\obj\Release\netcoreapp3.1\win-x64\BlackJack.AssemblyInfoInputs.cache
+C:\Users\destr\source\repos\BlackJack\BlackJack\obj\Release\netcoreapp3.1\win-x64\BlackJack.AssemblyInfo.cs
+C:\Users\destr\source\repos\BlackJack\BlackJack\obj\Release\netcoreapp3.1\win-x64\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\destr\source\repos\BlackJack\BlackJack\obj\Release\netcoreapp3.1\win-x64\BlackJack.dll
+C:\Users\destr\source\repos\BlackJack\BlackJack\obj\Release\netcoreapp3.1\win-x64\BlackJack.pdb
+C:\Users\destr\source\repos\BlackJack\BlackJack\obj\Release\netcoreapp3.1\win-x64\BlackJack.genruntimeconfig.cache
